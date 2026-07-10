@@ -1,4 +1,4 @@
-public class Welcome {
+public class welcome {
     
     // Your program begins with a call to main()
     
