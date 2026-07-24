@@ -6,4 +6,6 @@ COPY welcome.java .
 
 RUN javac welcome.java
 
-CMD ["java", "welcome"]
+EXPOSE 8080
+
+CMD ["java","welcome"]
